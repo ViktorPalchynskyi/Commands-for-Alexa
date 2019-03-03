@@ -50,9 +50,93 @@ public class Content extends AppCompatActivity {
         androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                switch (position){
-                    case 0 :
-                        break;
+
+                    switch (position){
+
+                        case 0:
+                            startActivity(new Intent(getApplicationContext(), Main.class));
+                            break;
+                        case 1:
+                            startActivity(new Intent(getApplicationContext(), Sounds.class));
+                            break;
+                        case 2:
+                            startActivity(new Intent(getApplicationContext(), Music.class));
+                            break;
+                        case 3:
+                            startActivity(new Intent(getApplicationContext(), Bluetooth.class));
+                            break;
+                        case 4:
+                            startActivity(new Intent(getApplicationContext(), TimesAndAlarm.class));
+                            break;
+                        case 5:
+                            startActivity(new Intent(getApplicationContext(), Calculator.class));
+                            break;
+                        case 6:
+                            startActivity(new Intent(getApplicationContext(), Translator.class));
+                            break;
+                        case 7:
+                            startActivity(new Intent(getApplicationContext(), News.class));
+                            break;
+                        case 8:
+                            startActivity(new Intent(getApplicationContext(), Radio.class));
+                            break;
+                        case 9:
+                            startActivity(new Intent(getApplicationContext(), Television.class));
+                            break;
+                        case 10:
+                            startActivity(new Intent(getApplicationContext(), History.class));
+                            break;
+                        case 11:
+                            startActivity(new Intent(getApplicationContext(), Geography.class));
+                            break;
+                        case 12:
+                            startActivity(new Intent(getApplicationContext(), Books.class));
+                            break;
+                        case 13:
+                            startActivity(new Intent(getApplicationContext(), Dictionaris.class));
+                            break;
+                        case 14:
+                            startActivity(new Intent(getApplicationContext(), PhysicsAndChemistry.class));
+                            break;
+                        case 15:
+                            startActivity(new Intent(getApplicationContext(), Lists.class));
+                            break;
+                        case 16:
+                            startActivity(new Intent(getApplicationContext(), Weather.class));
+                            break;
+                        case 17:
+                            startActivity(new Intent(getApplicationContext(), Calendar.class));
+                            break;
+                        case 18:
+                            startActivity(new Intent(getApplicationContext(), Sport.class));
+                            break;
+                        case 19:
+                            startActivity(new Intent(getApplicationContext(), PlacesAndRoutes.class));
+                            break;
+                        case 20:
+                            startActivity(new Intent(getApplicationContext(), Films.class));
+                            break;
+                        case 21:
+                            startActivity(new Intent(getApplicationContext(), Kitchen.class));
+                            break;
+                        case 22:
+                            startActivity(new Intent(getApplicationContext(), SkillsApps.class));
+                            break;
+                        case 23:
+                            startActivity(new Intent(getApplicationContext(), ShoppingAtAmazon.class));
+                            break;
+                        case 24:
+                            startActivity(new Intent(getApplicationContext(), SmartHouse.class));
+                            break;
+                        case 25:
+                            startActivity(new Intent(getApplicationContext(), Calls.class));
+                            break;
+                        case 26:
+                            startActivity(new Intent(getApplicationContext(), SecretCommands.class));
+                            break;
+
+
+
                 }
             }
         });
@@ -61,6 +145,8 @@ public class Content extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(getApplicationContext(), Info.class));
+
+
 
             }
         });
