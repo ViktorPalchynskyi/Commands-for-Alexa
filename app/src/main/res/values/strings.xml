@@ -11,7 +11,7 @@
     <string name="news">News</string>
     <string name="radio">Radio</string>
     <string name="television">Television</string>
-    <string name="story">Story</string>
+    <string name="history">History</string>
     <string name="geography">Geography</string>
     <string name="books">Books</string>
     <string name="dictionary">Dictionary</string>
@@ -24,7 +24,7 @@
     <string name="films">Films</string>
     <string name="kitchen">Kitchen</string>
     <string name="skill_apps">Skill apps</string>
-    <string name="shopping_at_amazon">Shopping ats amazon</string>
+    <string name="shopping_at_amazon">Shopping at Amazon</string>
     <string name="smart_house">Smart house</string>
     <string name="calls">Calls</string>
     <string name="secret_commands">Secret commands</string>
