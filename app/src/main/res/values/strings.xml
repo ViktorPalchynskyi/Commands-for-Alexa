@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Alexa</string>
+    <string name="app_name">Commands for Alexa</string>
     <string name="title">Commands for Alexa</string>
     <string name="main">Main</string>
     <string name="sounds">Sounds</string>

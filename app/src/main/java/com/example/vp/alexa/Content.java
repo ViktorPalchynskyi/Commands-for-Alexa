@@ -9,6 +9,10 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 
+import com.startapp.android.publish.adsCommon.AutoInterstitialPreferences;
+import com.startapp.android.publish.adsCommon.StartAppAd;
+import com.startapp.android.publish.adsCommon.StartAppSDK;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -32,6 +36,8 @@ public class Content extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_content);
+        StartAppSDK.init(this, "202236834", true);
+        StartAppAd.enableAutoInterstitial();
 
         List<HashMap<String, String>> arrayList = new ArrayList<>();
 
@@ -150,6 +156,11 @@ public class Content extends AppCompatActivity {
 
             }
         });
+
+        StartAppAd.setAutoInterstitialPreferences(
+                new AutoInterstitialPreferences()
+                        .setActivitiesBetweenAds(5   )
+        );
     }
 
 
