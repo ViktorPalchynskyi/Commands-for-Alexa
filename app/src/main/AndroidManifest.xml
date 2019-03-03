@@ -21,7 +21,34 @@
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />
 
-        <activity android:name=".Info"></activity>
+        <activity android:name=".Info" />
+        <activity android:name=".Main" />
+        <activity android:name=".Sounds" />
+        <activity android:name=".Music" />
+        <activity android:name=".Bluetooth" />
+        <activity android:name=".TimesAndAlarm" />
+        <activity android:name=".Calculator" />
+        <activity android:name=".Translator" />
+        <activity android:name=".News" />
+        <activity android:name=".Radio" />
+        <activity android:name=".Television" />
+        <activity android:name=".History" />
+        <activity android:name=".Geography" />
+        <activity android:name=".Books" />
+        <activity android:name=".Dictionaris" />
+        <activity android:name=".PhysicsAndChemistry" />
+        <activity android:name=".Lists" />
+        <activity android:name=".Weather" />
+        <activity android:name=".Calendar" />
+        <activity android:name=".Sport" />
+        <activity android:name=".PlacesAndRoutes" />
+        <activity android:name=".Films" />
+        <activity android:name=".Kitchen" />
+        <activity android:name=".SkillsApps" />
+        <activity android:name=".ShoppingAtAmazon" />
+        <activity android:name=".SmartHouse" />
+        <activity android:name=".Calls" />
+        <activity android:name=".SecretCommands"></activity>
     </application>
 
 </manifest>

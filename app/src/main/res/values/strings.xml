@@ -2,14 +2,475 @@
     <string name="app_name">Alexa</string>
     <string name="title">Commands for Alexa</string>
     <string name="main">Main</string>
+    <string name="sounds">Sounds</string>
+    <string name="music">Music</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="timers_and_alarm">Timers and alarm</string>
+    <string name="calculator">Calculator</string>
+    <string name="translator">Translator</string>
+    <string name="news">News</string>
+    <string name="radio">Radio</string>
+    <string name="television">Television</string>
+    <string name="story">Story</string>
+    <string name="geography">Geography</string>
+    <string name="books">Books</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="physics_and_chemistry">Physics and chemistry</string>
+    <string name="lists">Lists</string>
+    <string name="weather">Weather</string>
+    <string name="calendar">Calendar</string>
+    <string name="sport">Sport</string>
+    <string name="places_and_routes">Places and routes</string>
+    <string name="films">Films</string>
+    <string name="kitchen">Kitchen</string>
+    <string name="skill_apps">Skill apps</string>
+    <string name="shopping_at_amazon">Shopping ats amazon</string>
+    <string name="smart_house">Smart house</string>
+    <string name="calls">Calls</string>
+    <string name="secret_commands">Secret commands</string>
     <string name="info">Info</string>
 
 
+    <string name="content_main">
+\n
+
+    •Alexa, stop\n\n
+
+•Alexa, help.\n\n
+
+•Alexa, what can you do?\n
+•Alexa, what can I say?\n\n
+
+•Alexa, mute.\n
+•Alexa, unmute.\n\n
+
+•Alexa, set volume to 6.\n
+•Alexa, volume up.\n
+•Alexa, volume down.\n
+•Alexa, louder.\n
+•Alexa, lower.\n
+•Alexa, turn up the volume.\n
+•Alexa, turn down the volume.\n
+</string>
 
 
+    <string name="content_sounds">
+\n
+•Alexa, drum roll.\n\n
+
+•Alexa, applause.\n\n
+
+•Alexa, beatbox for me.\n\n
+
+•Alexa, bark like a dog.\n
+•Alexa, meow like a cat.\n
+
+</string>
+
+    <string name="content_music">
+\n
+
+•Alexa, play some music.\n\n
+
+•Alexa, play "Can\'t Stop the Feeling!"\n
+•Alexa, play "In The End" by "Linkin Park".\n\n
+
+•Alexa, play music by Taylor Swift.\n
+•Alexa, play One Republic Station.\n\n
+
+•Alexa, play the latest U2 album.\n
+•Alexa, play Breezy Summer Classics from Amazon.\n\n
+
+•Alexa, what\'s popular from Pink?\n\n
+
+•Alexa, next.\n
+•Alexa, repeat.\n
+•Alexa, play that song again.\n\n
+
+•Alexa, play the song that goes: "Head out on the highway".\n\n
+
+•Alexa, play the song of the day.\n\n
+
+•Alexa, help me a sleep.\n
+•Alexa, play some songs for sleeping.\n
+•Alexa, play classical music for sleeping.\n
+•Alexa, play music for taking a bath.\n
+</string>
 
 
+    <string name="content_bluetooth">
+\n
+•Alexa, pair bluetooth.\n\n
 
+•Alexa, connect to my phone.  \n
+•Alexa, connect.\n\n
+
+•Alexa, disconnect from my phone.\n
+•Alexa, disconnect.      \n
+</string>
+
+    <string name="content_timers">
+\n
+ •Alexa, what time is it?\n
+•Alexa, what\'s the date?\n\n
+
+•Alexa, set a timer for 3 minutes.\n
+•Alexa, set a second timer for 5 minutes.\n
+•Alexa, set timer 10 p.m.\n\n
+
+•Alexa, my timers.\n\n
+
+•Alexa, set an alarm for 7 a.m.\n
+•Alexa, set a repeating alarm for weekdays at 7 a.m.\n
+•Alexa, snooze.\n\n
+
+•Alexa, set a sleep timer for 45 minutes.\n
+•Alexa, set a 30 minute sleep timer.  \n
+</string>
+
+    <string name="content_calculator">
+\n
+•Alexa, how many meters are in mile? \n
+•Alexa, 10 miles in kilometers. \n
+•Alexa, what\'s 31 times 16? \n
+•Alexa, 5 factorial. \n\n
+
+•Alexa, what is 100 divided by 16? 	\n
+•Alexa, what\'s the dollar to euro exchange rate? \n
+•Alexa, 10 US dollars in russian rubles. \n
+•Alexa, how much is an ounce of gold? \n\n
+
+•Alexa, what\'s the price of bitcoin? \n
+•Alexa, what\'s the stock price of Apple? \n
+</string>
+
+    <string name="content_translator">
+\n
+• Alexa, how do you say «hello» in Russian? 	\n
+• Alexa, how do we say «excuse me» in French?\n
+• Alexa, translate «Good evening» to German.\n
+• Alexa, translate «thank you» to Italian?  \n
+</string>
+
+    <string name="content_news">
+
+\n
+        •	Alexa, what\'s my Flash Briefing.\n
+•	Alexa, what\'s in the news.\n
+•	Alexa, what\'s up.\n
+•	Alexa, tell me the news.\n
+•	Alexa, news.\n
+</string>
+
+    <string name="content_radio">
+\n
+        •Alexa, play BBC on Tuneln.\n\n
+
+•Alexa, play Tuneln.\n
+
+</string>
+
+    <string name="content_television">
+\n
+        •Alexa, turn on the TV.\n
+•Alexa, turn on Netflix.\n
+•Alexa, play Game of Thrones on Fire TV.\n
+•Alexa, fast forward.\n
+•Alexa, volume up.\n\n
+
+•Alexa, send that to my Fire Tablet.\n
+•Alexa, show this on Alice\'s Fire Tablet.\n
+</string>
+
+    <string name="content_history">
+\n
+        •	Alexa, what happened today in history?\n\n
+
+•	Alexa, when did World War 2 begin?\n
+•	Alexa, when was Cold War?\n
+•	Alexa, when did the industrial revolution happen?\n\n
+
+•	Alexa, what happened during the enlightenment?\n
+•	Alexa, the largest empire.\n
+•	Alexa, the membership of the United Nations.\n
+</string>
+
+    <string name="content_geography">
+\n
+•	Alexa, how many people live in America?\n
+•	Alexa, what\'s the capital of Denmark?\n
+•	Alexa, Germany area.\n\n
+
+•	Alexa, the biggest ocean.\n
+•	Alexa, Pacific ocean\'s depth.\n
+•	Alexa, the longest river.\n
+•	Alexa, what\'s the longest river in Russia?\n
+•	Alexa, the deepest lake.\n
+•	Alexa, the highest mountain.\n
+•	Alexa, the longest mountain range.\n
+•	Alexa, what\'s the high of Everest.\n\n
+
+•	Alexa, why is the sky blue?\n
+•	Alexa, where does rain come from?\n\n
+
+•	Alexa, what\'s the hottest place on earth?\n
+•	Alexa, what\'s the coldest place in Africa?\n
+    </string>
+
+    <string name="content_books">
+\n
+•Alexa, read "The Secret Garden" from Audible.\n\n
+
+•Alexa, resume my book.\n\n
+
+•Alexa, next chapter.\n
+•Alexa, previous chapter.\n\n
+
+•Alexa, read me my Kindle book.\n\n
+
+•Alexa, read me "Strange Answers to the Psychopath Test."\n\n
+
+•Alexa, who wrote «Elevation»?\n\n
+
+•Alexa, what are the most popular books this week?\n
+•Alexa, what is the upcoming book by Neil Gaiman?\n
+</string>
+
+    <string name="content_dictionaries">
+\n
+        •Alexa, what\'s the definition of word «agile»?\n
+•Alexa, find the definition of «instant»\n
+•Alexa, what does the word «pragmatic» mean?\n
+•Alexa, what is «gluten»?\n\n
+
+•Alexa, how do you spell «simultaneously»?\n
+•Alexa, how do I spell «itinerary»?\n\n
+
+•Alexa, what\'s another word for «happy»?\n
+</string>
+
+    <string name="content_physics">
+\n
+        •	Alexa, speed of light.\n
+•	Alexa, speed of sound.\n
+•	Alexa, what is gravity?\n
+•	Alexa, Newton\'s laws.\n\n
+
+•	Alexa, what is air made of?\n
+•	Alexa, what is plastic made of?\n
+•	Alexa, who is Avogadro?\n
+</string>
+
+    <string name="content_lists">
+\n
+•Alexa, create a to-do.\n
+•Alexa, add "go to the bank" to my to-do list.\n\n
+
+•Alexa, add eggs to my shopping list.\n
+•Alexa, I need to buy a milk.\n\n
+
+•Alexa, what\'s on my shopping list? \n
+</string>
+
+    <string name="content_weather">
+\n
+        •Alexa, what\'s the weather?\n
+•Alexa, what\'s the temperature outside?\n\n
+
+•Alexa, what\'s the weather tomorrow?\n
+•Alexa, weather on Friday.\n
+•Alexa, weather on weekend.\n
+•Alexa, what\'s the weather next week?\n\n
+
+•Alexa, weather in Moscow.\n
+•Alexa, weather in New York.\n
+•Alexa, what\'s the weather for Paris this week?\n
+•Alexa, what\'s the high for Moscow on Friday?\n\n
+
+•Alexa, do I need an umbrella?\n
+•Alexa, is it going to rain tomorrow?\n
+•Alexa, is it going to snow today?\n
+•Alexa, what is the humidity index in Saint-Petersburg?\n
+•Hey Alexa, what is the wind speed?\n
+</string>
+
+    <string name="content_calender">
+\n
+•Alexa, what\'s on my calendar tomorrow?\n
+•Alexa, how does my day look?\n\n
+
+•Alexa, add an event to my calendar.\n
+•Alexa, add meeting to my calendar for tomorrow at 5 p.m.\n\n
+
+•Alexa, how many days until Christmas?    \n
+</string>
+
+    <string name="content_sport">
+\n
+        •Alexa, what\'s my Sports Update?\n\n
+
+•Alexa, what was the score of the Giants?\n
+•Alexa, did the Giants win?\n
+•Alexa, how many games back are the Giants?\n
+•Alexa, when do the Giants play next?\n\n
+
+•Alexa, who has the most home runs in baseball?\n\n
+
+•Alexa, when does football season start?\n\n
+
+•Alexa, tell me a football joke.\n
+
+</string>
+
+    <string name="content_places">
+\n
+        •Alexa, what\'s traffic like?\n
+•Alexa, what\'s the traffic?\n\n
+
+•Alexa, where\'s the nearest swimming pool?\n
+•Alexa, where\'s the closest park.\n
+•Alexa, find me a nearby pizza restaurant.\n\n
+
+•Alexa, find the address for Bank of America.\n\n
+
+•Alexa, find business hours for Walmart?\n\n
+
+•Alexa, how long will it take to get to San Francisco from Los Angeles?\n
+</string>
+
+    <string name="content_films">
+\n
+        • Alexa, what movies are playing tonight?	\n\n
+
+•Alexa, what is the IMDB rating for "The Matrix"?\n\n
+
+•Alexa, tell me about the movie "The Green Mile".\n\n
+
+•Alexa, who plays in "Blade Runner"?\n
+•Alexa, what is Johny Depp latest movie?\n\n
+
+•Alexa, give me a "Game of Thrones" quote.\n\n
+
+•Alexa, what are the latest movies?\n
+</string>
+
+    <string name="content_kitchen">
+\n
+•Alexa, set pasta timer for 7 minutes.\n
+•Alexa, set chicken timer for 7 minutes.\n\n
+
+•Alexa, how many milliliters in a teaspoon.\n
+•Alexa, how many milliliters in a tablespoon.\n\n
+
+•Alexa, how many calories are in a chicken breast?  \n
+</string>
+
+    <string name="content_skill">
+\n
+        •Alexa, enable Memory Training skill.\n
+•Alexa, enable Domino\'s.\n\n
+
+•Alexa, open Translated.\n
+•Alexa, start Memory Training.\n\n
+
+•Alexa, what are your latest skills?\n
+•Alexa, what are your top skills?\n
+•Alexa, recommend a skill for me.\n\n
+
+•Alexa, let\'s play a game.\n
+•Alexa, teach me something.\n
+•Alexa, let\’s make a drink.\n\n
+
+•Alexa, how can I create my own skills?\n
+</string>
+
+    <string name="content_shopping">
+\n
+        •	Alexa, where\'s my stuff?\n
+•	Alexa, track my order.\n\n
+
+•	Alexa, buy more deodorant.\n
+•	Alexa, reorder deodorant.\n
+•	Alexa, order an Echo Dot.\n
+•	Alexa, add garbage bags to my cart.\n\n
+
+•	Alexa, what are your deals?\n
+</string>
+
+    <string name="content_smart">
+\n
+        •Alexa, discover my devices.\n\n
+
+•Alexa, turn off the lights.\n
+•Alexa, turn on the lights.\n\n
+
+•Alexa, dim the lights to 50 percent.\n\n
+
+•Alexa, raise the temperature 1 degree.\n
+•Alexa, set the temperature to 72.\n\n
+
+•Alexa, lock my back door.\n\n
+
+•Alexa, show the baby camera.\n
+•Alexa, show front door.\n\n
+
+•Alexa, trigger "shopping list".\n
+</string>
+
+    <string name="content_calls">
+\n
+        •Alexa, call.\n
+•Alexa, who\'s available.\n
+•Alexa, call Grace.\n
+•Alexa, call Dad.\n\n
+
+•Alexa, answer the call.\n
+•Alexa, hang up.\n
+•Alexa, video off.\n
+•Alexa, do not disturb.\n\n
+
+•Alexa, send Jenny a message.\n
+•Alexa, play my messages.\n\n
+
+•Alexa, drop in on the living room.\n
+</string>
+
+    <string name="content_secret">
+\n
+        •Alexa, how are you?\n
+•Alexa, why are called Alexa?\n
+•Alexa, do you prefer cats or dogs?\n
+•Alexa, what\'s your favorite color?\n
+•Alexa, who is favorite actor?\n
+•Alexa, what\'s your favorite sci-fi movie?\n
+•Alexa, what\'s your favorite hobby?\n
+•Alexa, what are you thankful for?\n
+•Alexa, who is your favorite poet?\n
+•Alexa, who do you love?\n
+•Alexa, tell me a story about yourself.\n\n
+
+•Alexa, tell me a joke.\n
+•Alexa, tell me a pun.\n
+•Alexa, talk like a pirate.\n
+•Alexa, sing a country song.\n
+•Alexa, sing a Thanksgiving song.\n
+•Alexa, rap for me.\n
+•Alexa, beatbox.\n
+•Alexa, tell me a story.\n
+•Alexa, tell me a fun fact.\n
+•Alexa, read a poem.\n
+•Alexa, tell me a limerick.\n
+•Alexa, tell me a tongue twister.\n
+•Alexa, flip a coin.\n
+•Alexa, roll a die.\n
+•Alexa, give me some advice.\n
+•Alexa, surprise me.\n
+•Alexa, Star Wars or Star Trek?\n\n
+
+•Alexa, tell me a fact.\n
+•Alexa, tell me something I don\'t know.\n
+
+</string>
 
 
     <string name="content_info">
