@@ -2,4 +2,18 @@
     <string name="app_name">Alexa</string>
     <string name="title">Commands for Alexa</string>
     <string name="main">Main</string>
+    <string name="info">Info</string>
+
+
+
+
+
+
+
+
+
+    <string name="content_info">
+        \n
+\"Commands for Alexa \" is a reference application for the commands of voice assistant Alexa. Here you will find a complete list of voice commands, divided into categories.\n\n
+In this application there is NO built-in Alexa, to use the voice assistant you need to download the application on the official site.</string>
 </resources>

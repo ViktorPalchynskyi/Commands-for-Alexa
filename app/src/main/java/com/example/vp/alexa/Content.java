@@ -1,7 +1,10 @@
 package com.example.vp.alexa;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
@@ -44,5 +47,25 @@ public class Content extends AppCompatActivity {
         SimpleAdapter simpleAdapter = new SimpleAdapter(getBaseContext(), arrayList, R.layout.my_list,from,to);
         ListView androidListView = (ListView) findViewById(R.id.list_view);
         androidListView.setAdapter(simpleAdapter);
+        androidListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                switch (position){
+                    case 0 :
+                        break;
+                }
+            }
+        });
+        info = (ImageView) findViewById(R.id.btn_info);
+        info.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(getApplicationContext(), Info.class));
+
+            }
+        });
     }
+
+
+
 }
